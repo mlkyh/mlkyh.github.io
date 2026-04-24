@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Malik Yahiaoui"
   pronouns         : # example: "she/her"  
-  bio              : "Malik Yahiaoui is associate professor (Maître de Conférences) at the University of Toulouse (France), Department of Materials and Mechanics of Laboratoire Génie de Production. He is an engineer in the field of Ceramics Materials and teaches Physics, Materials Science and Ceramics at Ecole Nationale d’Ingénieurs de Tarbes. Malik does research in Tribology, Mechanical Engineering and Materials Engineering. His current projects are on fundamental EHL contact behavior and wear dynamics, with a third body approach, in dry sliding contacts using acoustic emission analysis and real-time observation of sliding interfaces."
+  bio              : "Malik Yahiaoui is associate professor (Maître de Conférences - HDR) at the Université de Technologie Tarbes Occitanie Pyrénées (France), Department of Materials and Mechanics of Laboratoire Génie de Production. He is an engineer in the field of Ceramics Materials and teaches Physics, Materials Science and Ceramics at Ecole Nationale d’Ingénieurs de Tarbes. Malik does research in Tribology, Mechanical Engineering and Materials Engineering. His current projects are on fundamental EHL contact behavior and wear dynamics, with a third body approach, in dry sliding contacts using acoustic emission analysis and real-time observation of sliding interfaces."
   location         : "Tarbes"
-  employer         : "Université de Technologie Tarbes Occitanie Pyrénées"
+  employer         : "UTTOP"
   uri              : # URL
   email            : "malik.yahiaoui@uttop.fr" 
 
