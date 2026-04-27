@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021yahiaoui
 excerpt: 'A rare analytical tribology model linking a fundamental wear mechanism—transgranular cracking—to acoustic emission, enabling crack detection and sizing during friction.'
-date: 2021-12-01
+date: 2021
 venue: 'Tribology Letters'
 slidesurl: ''
 paperurl: 'https://hal.science/hal-03620269'
