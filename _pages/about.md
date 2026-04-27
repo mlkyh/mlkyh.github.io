@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div align="justify">
+
 
 IssyOsborne:transIentSqueeze and Starvation in elastohydrodynamic — OScillating Bodies sOlving Reynolds oNe-dimensional Equation
 ======
@@ -14,3 +16,4 @@ In the field of tribology, many applications operate in the elastohydrodynamic l
 ![IssyOsborne](/images/Graphical_EHL_Malik.png)
 
 
+</div>
