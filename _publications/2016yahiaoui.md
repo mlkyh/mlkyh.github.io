@@ -1,3 +1,4 @@
+---
 title: "Quality and wear behavior of graded polycrystalline diamond compact cutters"
 collection: publications
 category: manuscripts
@@ -6,3 +7,4 @@ excerpt: 'Experimental evaluation of graded PDC cutters showing improved quality
 date: 2016-01-01
 venue: 'International Journal of Refractory Metals and Hard Materials'
 paperurl: 'https://doi.org/10.1016/j.ijrmhm.2015.12.009'
+---
