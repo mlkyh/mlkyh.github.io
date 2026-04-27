@@ -26,8 +26,8 @@ From Tarbes, the mountain range is easily accessible and visible on clear days. 
 
 <div class="gallery">
   <img src="/images/pyrenees/GR10.jpg" alt="Pyrenees Great Road">
-  <img src="/images/pyrenees/JP.jpg" alt="JP summit">
+  <img src="/images/pyrenees/JP.jpeg" alt="JP summit">
   <img src="/images/pyrenees/lac.jpg" alt="Pyrenean lac">
-   <img src="/images/pyrenees/midi.jpg" alt="midi summit">
-   <img src="/images/pyrenees/sheep.jpg" alt="sheeps">
+   <img src="/images/pyrenees/midi.jpeg" alt="midi summit">
+   <img src="/images/pyrenees/sheep.jpeg" alt="sheeps">
 </div>
