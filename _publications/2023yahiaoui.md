@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023yahiaoui
 excerpt: 'Turning a notoriously complex EHL problem into a fully analytical solution, this experimentally validated model predicts transient film thickness, squeeze effects, asymmetry, and hysteresis in dynamic contacts.'
-date: 2023
+date: 2023-07-01
 venue: 'SoftwareX'
 slidesurl: ''
 paperurl: 'https://hal.science/hal-04121630'
