@@ -3,8 +3,8 @@ title: "IssyOsborne: transIent Squeeze and Starvation in elastohydrodynamic — 
 collection: publications
 category: manuscripts
 permalink: /publication/2023yahiaoui
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 'Turning a notoriously complex EHL problem into a fully analytical solution, this experimentally validated model predicts transient film thickness, squeeze effects, asymmetry, and hysteresis in dynamic contacts.'
+date: 2023
 venue: 'SoftwareX'
 slidesurl: ''
 paperurl: 'https://hal.science/hal-04121630'
