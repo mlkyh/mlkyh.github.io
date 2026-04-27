@@ -24,9 +24,9 @@ Acoustic emission characterization of transgranular cracks in WC-Co cemented car
 The tribological behavior of tungsten carbide-cobalt materials is influenced by the cobalt content and the WC grains size. The main wear mechanisms in these materials are cobalt depletion, intergranular cracks and WC grain cleavages. More specifically, coarse WC grains favor the apparition of transgranular cracks during sliding friction tests. A promising way to access in real time blinded tribological contacts is the technique of acoustic emission (AE). This study clearly identifies transgranular cracks in AE signals. The AE energy and frequency of this mechanism were experimentally associated with the size of the transgranular cracks. A mechanical model based on the classical beam theory and harmonic motion equations confirms these relations. The AE centroid period (i.e. inverse of the centroid frequency) increases linearly with the size of the transgranular cracks. The AE energy increases linearly with the cube of the transgranular cracks length.
 
 Keywords: Acoustic emission, WC-Co, Friction, Transgranular crack, Beam theory, Harmonic motion
-
-
-![AE_WCCo](/images/Graphical_EHL_Malik.png)
+<p align="center">
+<img src="/images/AEWC_Co_Graphic_abstract.png" width="50%">
+</p>
 
 
 </div>
