@@ -97,27 +97,11 @@ My work combines in situ and operando experimental techniques, including acousti
 
 ## Technical and Scientific Expertise
 
-* **Experimental tribology:** reciprocating tribometers, fretting tests, dry and lubricated contacts, friction and wear measurements.
-* **Experimental diagnostics:** acoustic emission, high-speed imaging, Raman spectroscopy, optical microscopy, and mechanical testing.
+* **Experimental tribology:** tribometers, fretting tests, dry and lubricated contacts, friction and wear measurements.
+* **Experimental diagnostics:** acoustic emission, high-speed imaging, optical microscopy, and mechanical testing.
 * **Data analysis:** signal processing, statistical analysis, experimental data synchronization, and scientific visualization.
-* **Modeling and programming:** Python, Igor Pro, numerical modeling of tribological contacts, and transient EHL calculations.
+* **Modeling and programming:** coding (Python, Igor Pro), analytical modeling of contact mechanisms, and transient EHL calculations.
 * **Materials characterization:** indentation, ceramics, polymers, and surface damage analysis.
-
-## Publications
-
-<ul>
-{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
-
-## Conferences and Invited Talks
-
-<ul>
-{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}
-</ul>
 
 ## Teaching
 
@@ -125,8 +109,6 @@ My teaching activities at ENIT/UTTOP cover undergraduate and graduate engineerin
 
 * Thermodynamics.
 * Introduction to Materials Science.
-* Wave Propagation.
-* Mechanical Vibrations.
 * Materials Selection.
 * Ceramics and Ceramic Materials.
 * Advanced Materials and Ceramic Engineering.
