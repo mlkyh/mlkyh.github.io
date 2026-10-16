@@ -1,11 +1,11 @@
 
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume/
+- /resume
 ---
 
 {% include base_path %}
@@ -145,18 +145,13 @@ My teaching activities at ENIT/UTTOP cover undergraduate and graduate engineerin
 * **Editorial Board Member — Tribology Letters** (2025–Present).
   * Previously a member of the Early Career Editorial Board.
 
-* **Topical Advisory Panel Member — Lubricants (MDPI)**.
-  * Guest Editor of the topical collection *Acoustic Emission in Friction*.
-
-* **Editorial Coordination — Journal of Friction and Tribology (JFT)**.
+* **Editorial Coordination — Journal Francophone de Tribologie (JFT)**.
   * Development and coordination of a diamond open-access journal hosted by Episciences.
   * Promotion of open scientific publishing and community-driven peer review.
 
 ### Scientific Community and Conference Organization
 
 * **Organizer — Journées Internationales Francophones de Tribologie (JIFT 2025)**, Tarbes, France, June 4–6, 2025.
-
-* **Co-coordinator — Tribology Working Group**, Association Française de Mécanique (AFM).
 
 * **Board Member — Groupe Français de la Céramique (GFC)**.
 
