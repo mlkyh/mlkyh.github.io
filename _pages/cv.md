@@ -37,7 +37,7 @@ My work combines in situ and operando experimental techniques, including acousti
 * **2017–Present — Associate Professor (Maître de conférences)**  
   École Nationale d'Ingénieurs de Tarbes (ENIT), Université de Technologie Tarbes Occitanie Pyrénées (UTTOP), France.
   * Research in tribology, contact mechanics, materials science, and experimental diagnostics.
-  * Teaching in materials science, thermodynamics, mechanical vibrations, wave propagation, and materials selection.
+  * Teaching in materials science, thermodynamics, tribology and materials selection.
   * Supervision of Ph.D. and Master's students.
   * Coordination of scientific projects and research collaborations.
 
@@ -94,7 +94,7 @@ My work combines in situ and operando experimental techniques, including acousti
   * Investigation of mechanical damage under tensile, cyclic, and indentation loading.
 
 * **DURECOS**
-  * Contribution to acoustic emission monitoring and tribological damage characterization.
+  * Contribution to acoustic emission monitoring and damage characterization in natural fiber thermoplastic composite.
 
 ## Technical and Scientific Expertise
 
